@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,nix&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,arch&theme=dark" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,redis,git,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,git,docker,vscode&theme=dark" />
   </a>
 </p>
 
